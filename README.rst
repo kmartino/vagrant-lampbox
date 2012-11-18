@@ -30,3 +30,4 @@ TODO
 * Deploy each VM with different web sites
 * Install Wordpress into the client instance
 * Create a third VM called data
+* Create a fourth and fifth VM to represent additional serivce instances.
